@@ -1,0 +1,15 @@
+{
+  "name": "pa-temperatura",
+  "version": "1.0.0",
+  "description": "zadanie 9 na pa",
+  "main": "index.js",
+  "module": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kamkow1",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
